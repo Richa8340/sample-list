@@ -1,0 +1,15 @@
+/* Styling the list to use Roman numerals */
+.roman-list {
+    list-style-type: upper-roman;
+    padding-left: 20px; /* Adds some padding to align the numbers */
+    font-size: 18px;
+    color: #333;
+}
+
+/* Container with square border */
+.list-container {
+    border: 2px solid #000; /* Black square border */
+    padding: 20px;
+    width: fit-content;
+    margin: 0 auto;
+}
